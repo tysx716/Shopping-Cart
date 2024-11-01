@@ -1,6 +1,8 @@
 # Shopping-Cart
 //Building a Shopping cart using Javascript. 
+
 // define an array of product objects, each with a name, price, productId, and image
+
 const products = [
   {
     name: "Cherry",
